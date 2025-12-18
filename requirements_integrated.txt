@@ -1,0 +1,14 @@
+# 통합 보안 분석기 필수 패키지 (Semgrep + Bandit + LLM)
+
+# Claude API
+anthropic>=0.39.0
+
+# 정적 분석 도구
+semgrep>=1.45.0    # 다양한 언어 지원, OWASP Top 10
+bandit>=1.7.0      # Python 특화
+
+# 기타 의존성
+rich>=13.0.0
+pyyaml>=6.0
+stevedore>=5.0.0
+

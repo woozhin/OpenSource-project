@@ -1,0 +1,44 @@
+# Python 캐시
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# 가상환경
+venv/
+env/
+ENV/
+.venv
+
+# IDE 설정
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 환경 변수 (API 키 보호)
+.env
+.env.local
+
+# 생성된 보고서
+*.html
+reports/
+
+# Bandit 소스 코드 (pip로 설치)
+bandit-main/
+bandit/
+
+# Semgrep 규칙 (자동 다운로드)
+semgrep-rules/
+
+# OS 파일
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 임시 파일
+*.tmp
+*.bak
+*.log
+
