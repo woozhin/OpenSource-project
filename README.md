@@ -1,6 +1,6 @@
-# 🔒 통합 보안 취약점 분석 시스템
+# 🔒 CodeScanner+
 
-**Semgrep + Bandit + Claude AI**를 활용한 자동화된 보안 취약점 분석 도구
+**Semgrep + Bandit + Claude AI**를 활용한 정적코드 분석기
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Semgrep](https://img.shields.io/badge/Semgrep-Latest-green.svg)](https://semgrep.dev/)
